@@ -1,6 +1,6 @@
 # Labs and project in NLP
 
-Spring 22, taking an NLP course instructed by Dr. Yonatan Belinkov.
+Spring 22, taking an NLP course instructed by Dr. Yonatan Belinkov at the Technion.
 
 
 By working in collaboration with many fellows, we completed many labs and projects in this great field.
