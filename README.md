@@ -9,6 +9,7 @@ Projects done by Ido Amit and Gal Katz.
 
 
 Labs:
+
 Segment 1 by Ido Amit and Barak Galanz.
 
 Segment 2 by Ido Amit and Matan Beigel.
