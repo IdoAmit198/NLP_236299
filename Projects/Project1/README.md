@@ -2,7 +2,7 @@
 
 Spring 22. Done with Gal Katz.
 
-In this project we wroked with the ATIS dataset and given a query our task was to predict the answer type.
+In this project we wroked with the ATIS dataset where given a query our task was to predict the answer type.
 
 First we verified our majority baseline, which was about 70%.
 
