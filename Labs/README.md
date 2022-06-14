@@ -12,4 +12,4 @@ Labs 2: Matan Beigel
 
 Labs 3: Yaniv Wolf
 
-Labs 4:
+Labs 4: Shachar Katz
