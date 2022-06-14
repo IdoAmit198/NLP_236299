@@ -16,4 +16,4 @@ Segment 2 by Ido Amit and Matan Beigel.
 
 Segment 3 by Ido Amit and Yaniv Wolf.
 
-Segment 4 by Ido Amit.
+Segment 4 by Ido Amit and Shachar Katz.
