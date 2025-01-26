@@ -4,7 +4,7 @@ Spring 22. Done with Gal Katz.
 
 In this project we wroked with the ATIS dataset. Given a query, our task was to predict the part of speech types from a known set of types. Meaning, our target was a sequence labeling, for each part of the sentence to fit the corresponding question type.
 
-Note: We included among the tags the auxiliaries 'eos', 'bos', 'unk', 'pad' and 'O' (outer, not related to any other type).
+Note: We included among the tags the auxiliaries 'eos', 'bos', 'unk', 'pad' and 'O' (other, not related to any other type).
 
 First we verified our majority baseline, which was about 63%. Not surprising, the tag 'O' was the most common.
 
